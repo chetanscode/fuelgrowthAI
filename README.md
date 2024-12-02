@@ -12,6 +12,7 @@ Analyzes influencer performance metrics
 Generates reports with metrics and images
 
 Setup Instructions:
+
 Access the dataset.
 Install required dependencies ,"pip install pandas opencv-python face_recognition requests reportlab".
 Run the scripts in the following order:  Extraction.ipynb, Process.ipynb and Analyze.ipynb.
