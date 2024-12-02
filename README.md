@@ -71,7 +71,7 @@ Face Recognition: Utilizes face recognition to identify unique influencers, ensu
 Reliability Metrics: Calculates test-retest reliability to measure consistency in influencer performance.
 User-Friendly Reporting: Generates a PDF summarizing data in an easily understandable format
 
-Assumptions
+Assumptions:
 Videos without visible faces are not processed or included in the final output.
 Each influencer is uniquely identified based on their face encoding.
 Test-retest reliability is only calculated for influencers with multiple performance scores.
