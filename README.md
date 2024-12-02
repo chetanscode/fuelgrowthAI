@@ -81,10 +81,3 @@ Assumptions:
 Videos without visible faces are not processed or included in the final output.
 Each influencer is uniquely identified based on their face encoding.
 Test-retest reliability is only calculated for influencers with multiple performance scores.
-
-Scalability Suggestions:
-To evolve this pipeline into a continuously running system:
-Database Integration:Use a database to store influencer data for real-time updates.
-Real-Time Video Processing:Implement a pipeline to detect and process new videos automatically.
-Incremental Updates:Analyze only new data, reducing redundant computations.
-Scalable Infrastructure:Deploy on a cloud-based system for handling large datasets and high processing demands.
