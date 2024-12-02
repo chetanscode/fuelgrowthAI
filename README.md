@@ -64,12 +64,17 @@ Average Performance
 Reliability
 First Video URL_
 PDF File: influencer_table.pdf , Displays influencer data in a table format with images.
+
 Folder: influencer_faces, Stores unique face images extracted from the videos.
 
 Project Highlights:
+
 Automation: Automates downloading and processing of video data, reducing manual effort.
+
 Face Recognition: Utilizes face recognition to identify unique influencers, ensuring no duplicate faces are included.
+
 Reliability Metrics: Calculates test-retest reliability to measure consistency in influencer performance.
+
 User-Friendly Reporting: Generates a PDF summarizing data in an easily understandable format
 
 Assumptions:
